@@ -1,0 +1,3 @@
+how to read word documents (or pdfs) for info
+create word document (preferably pdfs) with text read from the original pdf
+contain all this within custom tkinter (adhere to the template project for this)
