@@ -1,3 +1,15 @@
-how to read word documents (or pdfs) for info
-create word document (preferably pdfs) with text read from the original pdf
+Create Trello board with TODO list items:
+xhow to read word documents (or pdfs) for info
+xcreate word document (preferably pdfs) with text read from the original pdf
+xRestructure the test pdf to match what a typical technical literature looks like
+xSearch for specific titles in the pdf
+xget the product codes and corresponding literature by checking a few parameters (Order Code)
+	If the order code is found, then
+Store the order codes and corresponding document names in a dictionary
+
+edge cases
+Select which pdfs to read via a gui
+
+
 contain all this within custom tkinter (adhere to the template project for this)
+
