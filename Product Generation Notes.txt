@@ -5,10 +5,18 @@ xRestructure the test pdf to match what a typical technical literature looks lik
 xSearch for specific titles in the pdf
 xget the product codes and corresponding literature by checking a few parameters (Order Code)
 	If the order code is found, then
+xStore documents in folder
 Store the order codes and corresponding document names in a dictionary
+create a merged file that merges only the existing documents
+
+genereate an O&M manual that  prints only the relevant documents
 
 edge cases
+Create a basic ui where the user can find the document to read
+ask others to desing the ui based on a couple rules
 Select which pdfs to read via a gui
+highlighting things
+
 
 
 contain all this within custom tkinter (adhere to the template project for this)
