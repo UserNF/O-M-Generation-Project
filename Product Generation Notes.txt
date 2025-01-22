@@ -6,9 +6,12 @@ xSearch for specific titles in the pdf
 xget the product codes and corresponding literature by checking a few parameters (Order Code)
 	If the order code is found, then
 xStore documents in folder
-Store the order codes and corresponding document names in a dictionary
-create a merged file that merges only the existing documents
+https://camelot-py.readthedocs.io/en/master/api.html#camelot.read_pdf
+Store the order codes and corresponding document names in a dictionary for later use
+create a merged file that merges only the existing documents from 
+	Get the order code and find the documentws
 
+Generate an O&M index page that holds all product data in the correct order
 genereate an O&M manual that  prints only the relevant documents
 
 edge cases
