@@ -8,12 +8,28 @@ xget the product codes and corresponding literature by checking a few parameters
 xStore documents in folder
 https://camelot-py.readthedocs.io/en/master/api.html#camelot.read_pdf
 xStore the order codes and corresponding document names in a dictionary for later use in a technical literature index
-How to search for missing product documents from the folder?
+How to search for missing product documents from the folder? (test each method and derive pros and cons for each(
 	Manual setup?	
-	Automated Set?
+		Store all necessary pdfs in a pre-existing dictionary and 
+	Automated Setup?
+		simply drag and drop documents in a folder to Run a full search for each document, if nothing shows up, run a partial search through each document
+			It should catch 
+
+Manual Set Up
+	+Guaranteed Accuracy 
+	-Limited
+	-Harder to use
+(for later) Automatic
+	+Easier to use
+	+unlimited
+	-potentially less accurate
+
+
 create a merged file that merges only the existing documents from 
 	Get the order code and find the documentws
 
+UI SEtup
+Create a button that gets the directory of the technical literature index
 
 make a prompt that gets the user to enter the project name and number for the o&m index
 
