@@ -24,13 +24,31 @@ UI SEtup
 	xCleean up current project
 	xCreate a new project for UI setup
 	xStructure right side in a similar way to what you're looking for
-	if no document is selected, don't create certain elements and prompt user with "please select documents screen on the right"
+	xif no document is selected, don't create certain elements and prompt user with "please select documents screen on the right"
 		Add a "no document selected prompt"
 		Add simple instructions
 		Understand how to remove instructions and prompt
-	Add a way to select pdf documents to "Generate button"
-	if document selected "Clear screen" and "Create text windows that contain pdf data in left column"
+	xAdd a way to select pdf documents to "Generate button"
+	xif document selected "Clear screen"
+	x"Create text windows that contain pdf data in left column"
+		xFormat text
+
+	xStart Combine Logic with UI
+		Get UI to display Project name when it's selected
+
+	Figure out how to generate
+	Hook generation up to the generation button
+
+	Create what a typical directory would look like for a project
 	
+	Retrieve project information from the file path
+
+	Create generate button functionality
+		Generate based on project data info
+	Open the generated document
+	
+	**Create a dictionary that
+	**Generating Multiple O&Ms at once
 	
 	
 	Make UI based on CTK radio group pane and place buttons inside
