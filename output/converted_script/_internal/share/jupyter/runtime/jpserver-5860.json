@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 5860,
+  "port": 8889,
+  "root_dir": "C:\\Users\\Noah",
+  "secure": false,
+  "sock": "",
+  "token": "bf5fbe14e789264841c0fb68980d001eefc16323ad5394fe",
+  "url": "http://localhost:8889/",
+  "version": "2.14.2"
+}

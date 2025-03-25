@@ -1,0 +1,13 @@
+{
+  "shell_port": 62727,
+  "iopub_port": 62728,
+  "stdin_port": 62729,
+  "control_port": 62731,
+  "hb_port": 62730,
+  "ip": "127.0.0.1",
+  "key": "208fc106-476fae2ccfbbea86e3656b6b",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Noah\\Desktop\\CodeProjects\\UI Template\\UI-Template\\UI Template.ipynb"
+}

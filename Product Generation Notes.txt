@@ -35,6 +35,15 @@ UI SEtup
 
 	xStart Combine Logic with UI
 		Get UI to display Project name when it's selected
+	
+	python -m auto_py_to_exe
+
+
+	Construct a build of the project and see if it actually generates on a separate computer
+
+
+	Add prompt when press generate button to show that the button generated correctly
+	Add ability to name document
 
 	Figure out how to generate
 	Hook generation up to the generation button
