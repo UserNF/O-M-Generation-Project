@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[5]:
+# In[ ]:
 
 
 import os
@@ -179,6 +179,7 @@ class App(customtkinter.CTk):
         self.number_label.grid(row=0, column=2, padx=20, pady=(100,0), sticky="nw") 
         self.textbox_2 = customtkinter.CTkTextbox(self, width=700, height=20)
         self.textbox_2.grid(row=0, column=2, padx=20, pady=(130,0), sticky="nw")
+        
 
     def open_input_dialog_event(self):
         dialog = customtkinter.CTkInputDialog(text="Type in a number:", title="CTkInputDialog")

@@ -1,0 +1,13 @@
+{
+  "shell_port": 62938,
+  "iopub_port": 62939,
+  "stdin_port": 62940,
+  "control_port": 62942,
+  "hb_port": 62941,
+  "ip": "127.0.0.1",
+  "key": "da01489a-7cf7b81cade49b56dc510a8d",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Noah\\Desktop\\CodeProjects\\Search-Tool-Prototype-main\\Search-Tool-Prototype-main\\Search Tool Prototype.ipynb"
+}

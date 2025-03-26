@@ -1,4 +1,5 @@
-Create Trello board with TODO list items:
+Goal: Create a program that generates O&Ms based on user defined dictionaries that can be easily updated with accurate information
+
 xhow to read word documents (or pdfs) for info
 xcreate word document (preferably pdfs) with text read from the original pdf
 xRestructure the test pdf to match what a typical technical literature looks like
@@ -36,13 +37,28 @@ UI SEtup
 	xStart Combine Logic with UI
 		Get UI to display Project name when it's selected
 	
-	python -m auto_py_to_exe
+
+	
 
 
-	Construct a build of the project and see if it actually generates on a separate computer
 
 
+	xConstruct a build of the project and see if it actually generates on a separate computer
+		It does without comelot 
+
+python -m auto_py_to_exe
+
+	xExperiment with comelot alternatives
+	
+	generate O&M documents by crossreferencing the dictionary with what's in the O&M
+	
+
+	Create a new project for adding things to dictionary
+		(VERY IMPORTANT) Figure out how to sync the user defined dictionary across multiple systems
+
+	
 	Add prompt when press generate button to show that the button generated correctly
+		Success message somewhere that when clicked on opens the directory where the file exists
 	Add ability to name document
 
 	Figure out how to generate
