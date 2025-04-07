@@ -50,6 +50,8 @@ python -m auto_py_to_exe
 
 	xExperiment with comelot alternatives
 	
+	xPresentation
+	User defined dictionary via select technical literature button
 	generate O&M documents by crossreferencing the dictionary with what's in the O&M
 	
 
