@@ -51,7 +51,22 @@ python -m auto_py_to_exe
 	xExperiment with comelot alternatives
 	
 	xPresentation
-	User defined dictionary via select technical literature button
+	xDisplay contents of product literature folder through the grid
+	xDisplay action buttons
+	xUpdate docs real-time
+		Run the loop to check for docs if an update is detected
+	integrate into original system
+		Makke sure everything works correctly
+	Update docs by adding a refresh button
+	Create a button to select and add documents to the product folder
+	Prompt user to enter user defined values for each document
+	Add tags to each document that store the user defined values
+	*Each  Doc will have a tag->initial page that contains all user input data to be searched for creation
+	Add functionality to action buttons
+	Make it so you can click on product data text to open each document
+	generate o&M based on different things found in literature dictionary
+	implement grid display
+	python syntax review
 	generate O&M documents by crossreferencing the dictionary with what's in the O&M
 	
 
