@@ -56,17 +56,22 @@ python -m auto_py_to_exe
 	xUpdate docs real-time
 		Run the loop to check for docs if an update is detected
 	
-	integrate into original system
+	xintegrate into original system
 		Make table frame object
 		Contain all things inside the table frame object
 		Makke sure everything works correctly
 		There should be 3 main buttons, (O&M Preview, add literature button, Refresh Button)
-	Create refresh button
-	Update docs by adding a refresh button
+	xCreate refresh button
+	xUpdate docs by adding a refresh button
+	Create new project to experiment with tag identifiers
+	Create display label to contain everything in
+		To make sure you can easily tranisition between panels in the program
 	Fix glitch when generating preview of O&M documents
 	Add a back button to go back to the docs to generate & the tech literature dictionary page
-	Create a button to select and add documents to the product folder
-	Prompt user to enter user defined values for each document
+	Create button functionality to select and add documents to the product folder
+		Prompt user to enter user defined values for each document
+	create scroll wheel 
+	Do load screen project to consider how to load different parts of the document
 	Add tags to each document that store the user defined values
 	*Each  Doc will have a tag->initial page that contains all user input data to be searched for creation
 	Add functionality to action buttons
