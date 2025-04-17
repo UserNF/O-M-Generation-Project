@@ -63,6 +63,8 @@ python -m auto_py_to_exe
 		There should be 3 main buttons, (O&M Preview, add literature button, Refresh Button)
 	xCreate refresh button
 	xUpdate docs by adding a refresh button
+	Look for automated ways of storing pdfs
+	*Major scraps
 	Create new project to experiment with tag identifiers
 	Create display label to contain everything in
 		To make sure you can easily tranisition between panels in the program
