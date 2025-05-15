@@ -1,14 +1,20 @@
-Goal: Create a program that generates O&Ms based on user defined dictionaries that can be easily updated with accurate information
+Goal: Create a program that generates O&Ms based on dictionaries created by AI data retrieval that can be easily updated with accurate information
 
-xhow to read word documents (or pdfs) for info
-xcreate word document (preferably pdfs) with text read from the original pdf
-xRestructure the test pdf to match what a typical technical literature looks like
-xSearch for specific titles in the pdf
-xget the product codes and corresponding literature by checking a few parameters (Order Code)
-	If the order code is found, then
-xStore documents in folder
-https://camelot-py.readthedocs.io/en/master/api.html#camelot.read_pdf
-xStore the order codes and corresponding document names in a dictionary for later use in a technical literature index
+Feedback: Benefits of this O&M tool are unclear
+	How to ensure the data uploaded is up-to-date
+	How do owe prevent competing data files for the same part
+	How is data integrity maintained (Accuracy. completeness, and consistency of data)
+	Unclear what the purpose of o&Ms are
+
+Solutions: 
+	AI based data retrieval solutions (WIP), 
+	More thoroughly explain the purpose of Use analogies to describe O&Ms (O&Ms are like a table of contents of all products needed for a job)
+
+
+
+
+
+
 How to search for missing product documents from the folder? (test each method and derive pros and cons for each(
 	Manual setup?	
 		Store all necessary pdfs in a pre-existing dictionary and access them through a code number
