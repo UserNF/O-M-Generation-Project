@@ -1,0 +1,13 @@
+{
+  "shell_port": 54458,
+  "iopub_port": 54459,
+  "stdin_port": 54460,
+  "control_port": 54462,
+  "hb_port": 54461,
+  "ip": "127.0.0.1",
+  "key": "eb2db104-d6b5092516a57526acefdfad",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Noah\\Downloads\\MusicProject-main\\MusicProject-main\\MusicGeneration.ipynb"
+}

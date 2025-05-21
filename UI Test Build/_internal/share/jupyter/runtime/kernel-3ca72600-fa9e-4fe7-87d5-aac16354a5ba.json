@@ -1,0 +1,13 @@
+{
+  "shell_port": 64027,
+  "iopub_port": 64028,
+  "stdin_port": 64029,
+  "control_port": 64031,
+  "hb_port": 64030,
+  "ip": "127.0.0.1",
+  "key": "bf51393f-22ed0d18d2629b5083f23daa",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Noah\\OneDrive\\Desktop\\CodeProjects\\AI-Datasheet-Retrieval\\AI Data Retrieval.ipynb"
+}

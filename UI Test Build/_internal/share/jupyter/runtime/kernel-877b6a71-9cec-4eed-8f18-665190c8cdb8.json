@@ -1,0 +1,13 @@
+{
+  "shell_port": 64140,
+  "iopub_port": 64141,
+  "stdin_port": 64142,
+  "control_port": 64144,
+  "hb_port": 64143,
+  "ip": "127.0.0.1",
+  "key": "f0d3026f-f6fbe1fa605138537fdbbaaa",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Noah\\OneDrive\\Desktop\\CodeProjects\\PDFTags\\Untitled.ipynb"
+}

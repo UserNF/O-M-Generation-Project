@@ -1,0 +1,13 @@
+{
+  "shell_port": 55091,
+  "iopub_port": 55092,
+  "stdin_port": 55093,
+  "control_port": 55095,
+  "hb_port": 55094,
+  "ip": "127.0.0.1",
+  "key": "e6bb6f1e-00002c5b57d866fefc708f2c",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Noah\\OneDrive\\Desktop\\CodeProjects\\O&M-Generation-Project\\Untitled.ipynb"
+}

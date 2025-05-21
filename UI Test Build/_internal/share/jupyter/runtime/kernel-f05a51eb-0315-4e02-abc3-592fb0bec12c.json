@@ -1,0 +1,13 @@
+{
+  "shell_port": 63561,
+  "iopub_port": 63562,
+  "stdin_port": 63563,
+  "control_port": 63565,
+  "hb_port": 63564,
+  "ip": "127.0.0.1",
+  "key": "cb592750-ccccf440883457b13fcb7388",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Noah\\OneDrive\\Desktop\\CodeProjects\\O&M-Generation-Project\\Converter.ipynb"
+}

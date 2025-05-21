@@ -1,0 +1,13 @@
+{
+  "shell_port": 55142,
+  "iopub_port": 55143,
+  "stdin_port": 55144,
+  "control_port": 55146,
+  "hb_port": 55145,
+  "ip": "127.0.0.1",
+  "key": "e0bbf045-d37aefb51e11b825b7fc1592",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Noah\\OneDrive\\Desktop\\CodeProjects\\AI-Datasheet-Retrieval\\Untitled.ipynb"
+}

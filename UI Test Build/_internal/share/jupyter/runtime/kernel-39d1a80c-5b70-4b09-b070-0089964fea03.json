@@ -1,0 +1,13 @@
+{
+  "shell_port": 63585,
+  "iopub_port": 63586,
+  "stdin_port": 63587,
+  "control_port": 63589,
+  "hb_port": 63588,
+  "ip": "127.0.0.1",
+  "key": "dc020531-30f5c2817e2f8142f580ac4c",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Noah\\OneDrive\\Desktop\\CodeProjects\\O&M-Generation-Project\\UI Test.ipynb"
+}

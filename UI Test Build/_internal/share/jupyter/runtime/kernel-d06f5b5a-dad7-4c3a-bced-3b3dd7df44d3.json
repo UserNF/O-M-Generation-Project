@@ -1,0 +1,13 @@
+{
+  "shell_port": 60666,
+  "iopub_port": 60667,
+  "stdin_port": 60668,
+  "control_port": 60670,
+  "hb_port": 60669,
+  "ip": "127.0.0.1",
+  "key": "bbcb9641-ab3eea8c11932e9b36e2751a",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Noah\\OneDrive\\Desktop\\CodeProjects\\CustomTkinterGid\\Data-Grid-Example\\GridLayout.ipynb"
+}

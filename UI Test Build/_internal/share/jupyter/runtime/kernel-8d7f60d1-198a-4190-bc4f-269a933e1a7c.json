@@ -1,0 +1,13 @@
+{
+  "shell_port": 64894,
+  "iopub_port": 64895,
+  "stdin_port": 64896,
+  "control_port": 64898,
+  "hb_port": 64897,
+  "ip": "127.0.0.1",
+  "key": "b8218d0b-1d964dadbd4177e6c35f091e",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Noah\\OneDrive\\Desktop\\CodeProjects\\Hub Tool\\HUB-Tool\\Hub Tool.ipynb"
+}

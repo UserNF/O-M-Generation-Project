@@ -1,0 +1,13 @@
+{
+  "shell_port": 54266,
+  "iopub_port": 54267,
+  "stdin_port": 54268,
+  "control_port": 54270,
+  "hb_port": 54269,
+  "ip": "127.0.0.1",
+  "key": "f98cd1b8-752197a193b49b56d4b5be60",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "C:\\Users\\Noah\\Downloads\\MusicProject-main\\MusicProject-main\\MultiStreamGeneration.ipynb"
+}
