@@ -1,17 +1,45 @@
 Goal: Create a program that generates O&Ms based on dictionaries created by AI data retrieval that can be easily updated with accurate information
 
+GenSparkAI
+
+python -m auto_py_to_exe
+
+[TODO]
+Generate O&M for one product code based on product codes from an index vs what's available in available product documents
+	Configure "Select Index" Button to select excel doc or pdf containing index info
+	Search to confirm that it's a valid index
+	If couldn't find anything in the doc, prompt "Sorry, nothing found")
+	Search to see if there is any data within the index that is in the product doc folder
+	Create a doc that contains the contents relating to the index code
+	Generate O&M Index page
+	Generate datasheet after index page
+	Merge pdfs together and send final O&M Manual PDF to the desired folder
+
 Feedback: Benefits of this O&M tool are unclear
-	How to ensure the data uploaded is up-to-date
-	How do owe prevent competing data files for the same part
-	How is data integrity maintained (Accuracy. completeness, and consistency of data)
-	Unclear what the purpose of o&Ms are
+	1. How to ensure the data uploaded is up-to-date
+	2. How do we prevent competing data files for the same part
+	3. How is data integrity maintained (accuracy. completeness, and consistency of data)
+	4. What is the purpose of O&Ms? Unclear what the purpose of o&Ms are based on your response.
 
-Solutions: 
-	AI based data retrieval solutions (WIP), 
-	More thoroughly explain the purpose of Use analogies to describe O&Ms (O&Ms are like a table of contents of all products needed for a job)
+TODO
+	AI Plan
+		Entry AI tutorials
+			Refer back to coding plan on learning AI 
+			(hugging face et
+		AI to automate websrapping
+		Learn from other AI Developers on youtube (Look at how they solve problems through AI)
+		Study the techniques they use
+		
+	How to auto click into results
+	Organize a chart to show how easy or difficult it is to find certain codes
+		Sh2b-05 - Easy
+		
 
+Solutions: AI based data retrieval solutions (WIP), 
+	1. 
+	4. More thoroughly explain the purpose of O&Ms using analogies (e.g., O&Ms are like a table of contents of all products needed for a job)
 
-
+Issue with finding file type that isn't corrupt
 
 
 
@@ -52,7 +80,7 @@ UI SEtup
 	xConstruct a build of the project and see if it actually generates on a separate computer
 		It does without comelot 
 
-python -m auto_py_to_exe
+
 
 	xExperiment with comelot alternatives
 	
