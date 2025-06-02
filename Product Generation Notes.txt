@@ -5,8 +5,16 @@ GenSparkAI
 python -m auto_py_to_exe
 
 [TODO]
+Remember to split problems into smaller sub problems
+
 Generate O&M for one product code based on product codes from an index vs what's available in available product documents
-	Configure "Select Index" Button to select excel doc or pdf containing index info
+	xConfigure "Select Index" Button to select excel doc or pdf containing index info
+	xCheck the type of file to avoid errors
+	Unique identifier for documents.
+	Make sure the table is being cleared through Frame
+	Show the O&M preview in the frame
+	If pdf, search the list of available documents against the pdf index
+	if excel, search the list of available docs against the excel
 	Search to confirm that it's a valid index
 	If couldn't find anything in the doc, prompt "Sorry, nothing found")
 	Search to see if there is any data within the index that is in the product doc folder
@@ -14,6 +22,23 @@ Generate O&M for one product code based on product codes from an index vs what's
 	Generate O&M Index page
 	Generate datasheet after index page
 	Merge pdfs together and send final O&M Manual PDF to the desired folder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Feedback: Benefits of this O&M tool are unclear
 	1. How to ensure the data uploaded is up-to-date
