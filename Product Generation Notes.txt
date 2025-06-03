@@ -11,6 +11,25 @@ Generate O&M for one product code based on product codes from an index vs what's
 	xConfigure "Select Index" Button to select excel doc or pdf containing index info
 	xCheck the type of file to avoid errors
 	Unique identifier for documents.
+		xFor a single line item, list a code, and product name
+		xPresent code and product name based on user input
+		Present multiple codes in a list
+		Integrate into GridLayout solution
+		Add UI functionality for
+			Refresh
+			Add literature
+			Edit
+			Delete
+		
+		
+	Button Press to Create clone of product document to directory
+	Prompt user to enter unique identifiers for the documents
+
+	Do this process for multiple codes
+
+	Reimplemnt into core solution
+		
+
 	Make sure the table is being cleared through Frame
 	Show the O&M preview in the frame
 	If pdf, search the list of available documents against the pdf index
