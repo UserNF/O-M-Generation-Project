@@ -13,13 +13,27 @@ Generate O&M for one product code based on product codes from an index vs what's
 	Unique identifier for documents.
 		xFor a single line item, list a code, and product name
 		xPresent code and product name based on user input
-		Present multiple codes in a list
-		Integrate into GridLayout solution
+		xReimplement the old grid to the grid section
 		Add UI functionality for
-			Refresh
+			xRefresh
+			Present data in table through a search that gets the file data in that top page
+			Display text in window
+	
+		Add functionality to tech lit button to add new pdfs 
+			Add funct
+			Clone
+		Store all data in a data structure (List) for searching
+			
 			Add literature
+				File open to add literature
+				prompt user to add new literature
 			Edit
 			Delete
+		Present multiple codes in a list
+		Integrate into GridLayout solution
+
+I saw that APL is hold
+		
 		
 		
 	Button Press to Create clone of product document to directory
